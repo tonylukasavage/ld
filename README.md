@@ -4,7 +4,7 @@ _*ld*_ is a [Node.js](http://nodejs.org/) package for computing the [Levenshtein
 
 ## Video Demonstration
 
-Coming soon...
+[https://vimeo.com/38825679](https://vimeo.com/38825679)
 
 ## Installation
 
