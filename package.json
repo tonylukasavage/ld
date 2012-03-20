@@ -1,0 +1,21 @@
+{
+  "name": "ld",
+  "description": "Compute the Levenshtein distance for string comparison",
+  "keywords": [ "Levenshtein" ],
+  "main": "./lib/ld.js",
+  "version": "0.1.0",
+  "directories": { "lib": "./lib" },
+  "homepage": "https://github.com/tonylukasavage/ld",
+  "author": {
+    "name": "Tony Lukasavage",
+    "email": "anthony.lukasavage@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tonylukasavage/ld.git"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
